@@ -2,6 +2,8 @@
 
 A chrome extension to hide ads in OfferUp search results.
 
+Download extension from [chrome web store](https://chrome.google.com/webstore/detail/ddbnmpjfkgepndpglclikflamdlmbgae).
+
 To package for upload, run:
 
 ```
